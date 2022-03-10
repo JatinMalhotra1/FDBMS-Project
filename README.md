@@ -1,8 +1,7 @@
 # FDBMS-Project-Banking-System-Management
+> Software Required: MySQL Workbench, terminal
 >The main agenda of our project is to develop Bank Management Mini DBMS project is to keep a record of customer transactions in the bank.
-
 >We aim to demonstrate the use of create, read, update and delete MySQL operations through this project. Furthermore details about our pro>ject are as follows
-
 >Create a database for a banking management system. Tasks included are:
 >a. Identifying entities and attributes
 >b. Identifying relationships among them
