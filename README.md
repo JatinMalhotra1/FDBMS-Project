@@ -28,6 +28,7 @@
 >d. Agriculture loans
 >e. Education loans
 >f. Gold loans
-> ![image](https://user-images.githubusercontent.com/93217093/158013461-dda5fed7-4d60-4a21-96cf-62e14b6e37b7.png)
+> ![image](https://user-images.githubusercontent.com/93217093/158013497-cb25f131-103c-4075-bb11-7e9dc6cae457.png)
+
 
 
