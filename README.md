@@ -1,4 +1,4 @@
-# Banking-System-Management
+# Banking-System-Management(BSM)
 
 > Software Required: MySQL Workbench, terminal,Ubuntu
 
